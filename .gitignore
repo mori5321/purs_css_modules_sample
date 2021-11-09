@@ -1,0 +1,10 @@
+/node_modules/
+/.psci_modules
+/.spago
+/output
+/src/**/*Style.purs
+/dist
+/.psc-ide-port
+/.purs-repl
+/index.css
+/index.js
